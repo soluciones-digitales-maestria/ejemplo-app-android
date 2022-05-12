@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MiAplicacion001</string>
+    <string name="edit_message">Ingrese mensaje</string>
+    <string name="button_send">Enviar</string>
+</resources>
